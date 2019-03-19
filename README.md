@@ -1,7 +1,7 @@
-##Asmelash's First Web App
-###reated March 19, 2019 @ Epicodus
+## Asmelash's First Web App
+### reated March 19, 2019 @ Epicodus
 
-####How to run
+#### How to run
 1. Open folder
 2. Drag to browser
 3. _Presto_, it is **COMPLETE**
