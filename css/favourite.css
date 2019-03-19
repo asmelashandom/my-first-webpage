@@ -1,0 +1,30 @@
+h1{
+  color: #000000;
+  text-align: center;
+}
+p{
+  font-family: Arial;
+  color: black;
+  text-align: center;
+}
+
+img{
+  height: 200px;
+  width: 350px;
+}
+#wrap{
+  text-align: center;
+}
+#test{
+  display: inline-block;
+}
+
+ul{
+  text-align: left;
+  display: inline-block;
+  list-style-type: none;
+}
+li{
+  padding-bottom:8%;
+  padding-right:2%;
+}
